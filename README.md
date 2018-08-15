@@ -7,6 +7,11 @@ Setup
 1. Install dependencies with `bundle install`
 
 
+Run Tests
+---------
+
+Run `rspec` to run the full test suite.
+
 Run Program
 -----------
 
