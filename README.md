@@ -4,7 +4,9 @@ Calculate second lowest cost silver plan (SLCSP)
 Setup
 -----
 
-1. Install dependencies with `bundle install`
+Install dependencies with `bundle install`
+
+This was only tested running ruby 2.5.1
 
 
 Run Tests
