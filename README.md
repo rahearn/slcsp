@@ -1,6 +1,24 @@
 Calculate second lowest cost silver plan (SLCSP)
 ================================================
 
+Setup
+-----
+
+1. Install dependencies with `bundle install`
+
+
+Run Program
+-----------
+
+Run `bin/slcsp` or `ruby bin/slcsp` to calculate the second lowest cost silver plan from the default data files
+and output to `./output.csv`
+
+Run `bin/slcsp help` for information on available optional command line flags
+
+
+Original README
+================
+
 Problem
 -------
 
